@@ -256,7 +256,7 @@ Android 专属的 `InputMethodService`、`View` 树、JNI 一律没搬，按 Key
 ### 1. 只需要编译验证（不用 Apple 账号）
 
 ```bash
-git clone https://github.com/<you>/goutou-keyboard-ios.git
+git clone https://github.com/1655986984/goutou-keyboard-ios.git
 cd goutou-keyboard-ios
 git commit --allow-empty -m "chore: trigger" && git push
 ```
